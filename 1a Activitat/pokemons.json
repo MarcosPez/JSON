@@ -1,0 +1,1342 @@
+{"Pokemons":
+    [
+        {
+            "ID": 1,
+            "Nom": "Bulbasaur",
+            "Generació": "Primera",
+            "Categoria": "Llavor",
+            "Tipus": ["Planta, Verí"],
+            "Habilitat": "Espessor",
+            "Habilitat_oculta": "Clorofil·la",
+            "Pes": 
+                {
+                    "Unitat_de_mesura": "Quilograms",
+                    "Quantitat": 6.9
+                },
+            "Altura":
+                {
+                    "Unitat_de_mesura": "Metres",
+                    "Quantidad": 0.7
+                },
+            "Grups_d'ou": "Monstre Planta",
+            "Sexe": 
+                {
+                    "Probabilitat":
+                        {
+                            "Mascle": "87,5%",
+                            "Femella": "12.5%"
+                        }
+                },
+            "Color": "Verd",
+            "Figura": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/67/latest/20200214141425/Figura_8.png/48px-Figura_8.png",
+            "Crit": "https://www.wikidex.net/wiki/Archivo:Grito_de_Bulbasaur.ogg",
+            "Estadístiques_del_Pokéathlon":
+                    {
+                        "Velocitat": 3,
+                        "Fortalesa": 3,
+                        "Precisió": 4,
+                        "Resistència": 4,
+                        "Salt": 3,
+                        "Total": 17,
+                        "Mitjana": 3.4
+                    },
+            "Moviments":
+                [
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Enderrocament",
+                                    "Anglès": "Tackle",
+                                    "Japonès": "たいあたり (Tai Atari)"
+                                }
+                            },
+                        "Descripció": "Enderrocament (Tackle en anglès; たいあたり Cop amb el cos en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Físic",
+                                "Potència": 40,
+                                "Precisió": 100,
+                                "PP": [35, {"Màxim": 56}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí"
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Grunyit",
+                                    "Anglès": "Growl",
+                                    "Japonès": "なきごえ (Nakigoe)"
+                                }
+                            },
+                        "Descripció": "Grunyit (Growl en anglès; なきごえ Crit en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 100,
+                                "PP": [40, {"Màxim": 64}],
+                                "Blanc": "Oponents adjacents",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Sons": "Sí",
+                                "Travessa_substitut": "Sí"
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Fuet Cep",
+                                    "Anglès": "Vine Whip",
+                                    "Japonès": "つるのムチ (Tsuru no Muchi)"
+                                }
+                            },
+                        "Descripció": "Fuet Cep (Vaig venir Whip en anglès; つるのムチ Fuet liana en japonès) és un moviment de tipus planta introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Físic",
+                                "Potència": 45,
+                                "Precisió": 100,
+                                "PP": [25, {"Màxim": 40}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí"
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Desenvolupament",
+                                    "Anglès": "Growth",
+                                    "Japonès": "せいちょう (Seichō)"
+                                }
+                            },
+                        "Descripció": "Desenvolupament (Growth en anglès; せいちょう Creixement en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": null,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Usuari",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                    {
+                                        "Capa_màgica": "No",
+                                        "Protecció_Detecció": "No",
+                                        "Robatori": "Sí",
+                                        "Roca_del_rei": "No"
+                                    }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Drenadors",
+                                    "Anglès": "Leech Seed",
+                                    "Japonès": "やどりぎのタネ (Yadorigi no Tane)"
+                                }
+                            },
+                        "Descripció": "Drenadoras (Leech Seed en anglès; やどりぎのタネ Llavors de vesc en japonès) és un moviment de tipus planta introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 90,
+                                "PP": [10, {"Màxim": 16}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Fulla Esmolada",
+                                    "Anglès": "Razor Leaf",
+                                    "Japonès": "はっぱカッター (Happa Katta)"
+                                }
+                            },
+                        "Descripció": "Fulla Esmolada (Razor Leaf en anglès; はっぱカッター Fulla tallant en japonès) és un moviment de tipus planta introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Físic",
+                                "Potència": 55,
+                                "Precisió": 95,
+                                "PP": [25, {"Màxim": 40}],
+                                "Blanc": "Oponents adjacents",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Corts": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Pols Verí",
+                                    "Anglès": "Poison Powder",
+                                    "Japonès": "どくのこな (Doku no Kona)"
+                                }
+                            },
+                        "Descripció": "Pols Verí (Poison Powder en anglès; どくのこな Pols verí en japonès) és un moviment de tipus verí introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Verí",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 75,
+                                "PP": [35, {"Màxim": 56}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Pols": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Somnífer",
+                                    "Anglès": "Sleep Powder",
+                                    "Japonès": "ねむりごな (Nemuri Gona)"
+                                }
+                            },
+                        "Descripció": "Somnífer (Sleep Powder en anglès; ねむりごな Pols de somni en japonès) és un moviment de tipus planta introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 75,
+                                "PP": [15, {"Màxim": 24}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Pols": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Bomba Germen",
+                                    "Anglès": "Seed Bomb",
+                                    "Japonès": "タネばくだん (Tane Bakudan)"
+                                }
+                            },
+                        "Descripció": "Bomba Germen (Seed Bomb en anglès; タネばくだん Bomba llavor en japonès) és un moviment de tipus planta introduït en la quarta generació.",
+                        "Generació": "Quarta",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Físic",
+                                "Potència": 80,
+                                "Precisió": 100,
+                                "PP": [15, {"Màxim": 24}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Projectils": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Abatre",
+                                    "Anglès": "Take Down",
+                                    "Japonès": "とっしん (Tosshin)"
+                                }
+                            },
+                        "Descripció": "Abatre (Take Down en anglès; とっしん Càrrega en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Físic",
+                                "Potència": 90,
+                                "Precisió": 85,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Dolça Aroma",
+                                    "Anglès": "Sweet Scent",
+                                    "Japonès": "あまいかおり(Amai Kaori)"
+                                }
+                            },
+                        "Descripció": "Dolça Aroma (Sweet Scent en anglès; あまいかおり Dolça aroma en japonès) és un moviment de tipus normal introduït en la segona generació.",
+                        "Generació": "Segona",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 100,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Oponents adjacents",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Síntesi",
+                                    "Anglès": " Synthesis",
+                                    "Japonès": "こうごうせい (Kōgōsei)"
+                                }
+                            },
+                        "Descripció": "Síntesi (Synthesis en anglès; こうごうせい Fotosíntesi en japonès) és un moviment de tipus planta introduït en la segona generació.",
+                        "Generació": "Segona",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": null,
+                                "PP": [5, {"Màxim": 8}],
+                                "Blanc": "Usuari",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Curació": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "No",
+                                    "Robatori": "Sí",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Llavor Preocupant",
+                                    "Anglès": "Worry Seed",
+                                    "Japonès": "なやみのタネ (Nayami no Tane)"
+                                }
+                            },
+                        "Descripció": "Llavor Preocupant (Worry Seed en anglès; なやみのタネ Llavor de preocupació en japonès) és un moviment de tipus planta introduït en la quarta generació.",
+                        "Generació": "Quarta",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Físic",
+                                "Potència": null,
+                                "Precisió": 100,
+                                "PP": [10, {"Màxim": 16}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Fuetada",
+                                    "Anglès": "Power Whip",
+                                    "Japonès": "パワーウィップ (Pawā Wippu)"
+                                }
+                            },
+                        "Descripció": "Fuetada (Power Whip en anglès; パワーウィップ Fuet potent en japonès) és un moviment de tipus planta introduït en la quarta generació.",
+                        "Generació": "Quarta",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Físic",
+                                "Potència": 120,
+                                "Precisió": 85,
+                                "PP": [10, {"Màxim": 16}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Raig Solar",
+                                    "Anglès": "Solar Beam",
+                                    "Japonès": "ソーラービーム (Sōrā Bīmu)"
+                                }
+                            },
+                        "Descripció": "Raig Solar (Solar Beam2 en anglès, ソーラービーム Raig solar en japonès) és un moviment de tipus planta introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Especial",
+                                "Potència": 120,
+                                "Precisió": 100,
+                                "PP": [10, {"Màxim": 16}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    }
+                ],
+            "Imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png",
+            "Evolucions":
+                [
+                    {
+                        "ID": 2,
+                        "Nom": "Ivisaur",
+                        "Nivell_Necessari": 16
+                    },
+                    {
+                        "ID": 3,
+                        "Nom": "Venusaur",
+                        "Nivell_Necessari": 32
+                    }
+                ]
+        },
+        {
+            "ID": 4,
+            "Nom": "Vaporeon",
+            "Generació": "Primera",
+            "Categoria": "Bombolla",
+            "Tipus": "Aigua",
+            "Habilitat": "Absorbeix aigua",
+            "Habilitat_oculta": "Hidratació",
+            "Pes": 
+                {
+                    "Unitat_de_mesura": "Quilograms",
+                    "Quantitat": 29
+                },
+            "Altura":
+                {
+                    "Unitat_de_mesura": "Metres",
+                    "Quantidad": 1
+                },
+            "Grups_d'ou": "Camp",
+            "Sexe": 
+                {
+                    "Probabilitat":
+                        {
+                            "Mascle": "87,5%",
+                            "Femella": "12,5%"
+                        }
+                },
+            "Color": "Blau",
+            "Figura": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/6/67/latest/20200214141425/Figura_8.png/48px-Figura_8.png",
+            "Crit": "https://www.wikidex.net/wiki/Archivo:Grito_de_Vaporeon.ogg",
+            "Estadístiques_del_Pokéathlon":
+                    {
+                        "Velocitat": 3,
+                        "Fortalesa": 3,
+                        "Precisió": 5,
+                        "Resistència": 5,
+                        "Salt": 3,
+                        "Total": 19,
+                        "Mitjana": 3.8
+                    },
+            "Moviments":
+                [
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Pistola Aigua",
+                                    "Anglès": "Water Gun",
+                                    "Japonès": "みずでっぽう (Mizu Deppō)"
+                                }
+                            },
+                        "Descripció": "Pistola Aigua (Water Gun en anglès; みずでっぽう Pistola d'aigua en japonès) és un moviment de tipus aigua introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Aigua",
+                                "Classe": "Especial",
+                                "Potència": 40,
+                                "Precisió": 100,
+                                "PP": [25, {"Màxim": 40}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Enderrocament",
+                                    "Anglès": "Tackle",
+                                    "Japonès": "たいあたり (Tai Atari)"
+                                }
+                            },
+                        "Descripció": "Enderrocament (Tackle en anglès; たいあたり Cop amb el cos en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Físic",
+                                "Potència": 40,
+                                "Precisió": 100,
+                                "PP": [35, {"Màxim": 56}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí"
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Abatre",
+                                    "Anglès": "Take Down",
+                                    "Japonès": "とっしん (Tosshin)"
+                                }
+                            },
+                        "Descripció": "Abatre (Take Down en anglès; とっしん Càrrega en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Planta",
+                                "Classe": "Físic",
+                                "Potència": 90,
+                                "Precisió": 85,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Doble Tall",
+                                    "Anglès": "Double Edge",
+                                    "Japonès": "すてみタックル (Sutemi Takkuru)"
+                                }
+                            },
+                        "Descripció": "Doble Tall (Double-*Edge en anglès; すてみタックル Placaje arriscant la vida en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Físic",
+                                "Potència": 120,
+                                "Precisió": 100,
+                                "PP": [15, {"Màxim": 24}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Fuet",
+                                    "Anglès": "Tail Whip",
+                                    "Japonès": "しっぽをふる (Shippo wo Furu)"
+                                }
+                            },
+                        "Descripció": "Fuet (Tail Whip en anglès; しっぽをふる Bellugar cua en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 100,
+                                "PP": [30, {"Màxim": 48}],
+                                "Blanc": "Oponents adjacents",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Mossegada",
+                                    "Anglès": "Bite",
+                                    "Japonès": "かみつく (Kamitsuku)"
+                                }
+                            },
+                        "Descripció": "Mossegada (Bite en anglès; かみつく Mossegada en japonès) és un moviment de tipus siniestro1 introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Siniestre",
+                                "Classe": "Estat",
+                                "Potència": 60,
+                                "Precisió": 100,
+                                "PP": [25, {"Màxim": 40}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Acoquinar a l'objectiu (30%)",
+                                "Prioritat": 0,
+                                "Contacte": "Sí",
+                                "Mossegades": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Grunyit",
+                                    "Anglès": "Growl",
+                                    "Japonès": "なきごえ (Nakigoe)"
+                                }
+                            },
+                        "Descripció": "Grunyit (Growl en anglès; なきごえ Crit en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 100,
+                                "PP": [40, {"Màxim": 64}],
+                                "Blanc": "Oponents adjacents",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Sons": "Sí",
+                                "Travessa_substitut": "Sí"
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Copiador",
+                                    "Anglès": "Copycat",
+                                    "Japonès": "まねっこ (Manekko)"
+                                }
+                            },
+                        "Descripció": "Copiador (Copycat en anglès; まねっこ Imitar en japonès) és un moviment de tipus normal introduït en la quarta generació.",
+                        "Generació": "Quarta",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": null,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Usuari",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "No",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Antull",
+                                    "Anglès": "Covet",
+                                    "Japonès": "ほしがる (Hoshigaru)"
+                                }
+                            },
+                        "Descripció": "Antull (Covet en anglès; ほしがる Cobejar en japonès) és un moviment de tipus normal introduït en la tercera generació.",
+                        "Generació": "Tercera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Físic",
+                                "Potència": 60,
+                                "Precisió": 100,
+                                "PP": [25, {"Màxim": 40}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Reforç",
+                                    "Anglès": "Helping Hand",
+                                    "Japonès": "てだすけ (Tedasuke)"
+                                }
+                            },
+                        "Descripció": "Reforç (Helping Hand en anglès; てだすけ Ajudar en japonès) és un moviment de tipus normal introduït en la tercera generació.",
+                        "Generació": "Tercera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": null,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Aliat adjacent",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": "+5",
+                                "Contacte": "No",
+                                "Travessa_substitut": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "No",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Meteors",
+                                    "Anglès": "Swift",
+                                    "Japonès": "スピードスター (Supīdo Sutā)"
+                                }
+                            },
+                        "Descripció": "Meteors (Swift en anglès; スピードスター Estrella veloç en japonès), anomenat rapidesa abans de la novena generació, és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Especial",
+                                "Potència": 60,
+                                "Precisió": null,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Oponents adjacents",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Relleu",
+                                    "Anglès": "Baton Pass",
+                                    "Japonès": "バトンタッチ (Baton Tacchi)"
+                                }
+                            },
+                        "Descripció": "Relleu (Baton Pass en anglès; バトンタッチ Passada de relleu en japonès) és un moviment de tipus normal introduït en la segona generació.",
+                        "Generació": "Segona",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": null,
+                                "PP": [40, {"Màxim": 64}],
+                                "Blanc": "Usuari",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "No",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Encant",
+                                    "Anglès": "Charm",
+                                    "Japonès": "あまえる (Amaeru)"
+                                }
+                            },
+                        "Descripció": "Encant (Charm en anglès; あまえる Adular en japonès) és un moviment de tipus hada1 introduït en la segona generació.",
+                        "Generació": "Segona",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Fada",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 100,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Ataqui Sorra",
+                                    "Anglès": "Sand Attack",
+                                    "Japonès": "すなかけ (Sunakake)"
+                                }
+                            },
+                        "Descripció": "Ataqui Sorra (Sand Attack en anglès; すなかけ Atac sorra en japonès), anomenat ataqui-sorra en la primera generació, és un moviment de tipus terra introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Terra",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 100,
+                                "PP": [15, {"Màxim": 24}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Atac Ràpid",
+                                    "Anglès": "Quick Attack",
+                                    "Japonès": "でんこうせっか (Denkō Sekka)"
+                                }
+                            },
+                        "Descripció": "Atac Ràpid (Quick Attack en anglès; でんこうせっか Velocitat del llamp en japonès) és un moviment de tipus normal introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Físic",
+                                "Potència": 40,
+                                "Precisió": 100,
+                                "PP": [30, {"Màxim": 48}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": "+1",
+                                "Contacte": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Ullets Tendres",
+                                    "Anglès": "Baby-Doll Eyes",
+                                    "Japonès": "つぶらなひとみ (Tsuburana Hitomi)"
+                                }
+                            },
+                        "Descripció": "Ullets Tendres (Baby-*Doll Eyes en anglès; つぶらなひとみ Ulls rodons en japonès) és un moviment de tipus fada introduït en la sisena generació.",
+                        "Generació": "Sisena",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Fada",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": 100,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": "+1",
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "Sí",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Boira",
+                                    "Anglès": "Haze",
+                                    "Japonès": "くろいきり (Kuroi Kiri)"
+                                }
+                            },
+                        "Descripció": "Boira (Haze en anglès; くろいきり Boira negra en japonès) és un moviment de tipus gelo introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Gel",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": null,
+                                "PP": [30, {"Màxim": 48}],
+                                "Blanc": "Tots els Pokémon",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Travessa_substitut": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "No",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Hidropuls",
+                                    "Anglès": "Water Pulse",
+                                    "Japonès": "みずのはどう (Mizu no Hadō)"
+                                }
+                            },
+                        "Descripció": "Hidropulso (Water Premi en anglès; みずのはどう Pols d'aigua en japonès) és un moviment de tipus aigua introduït en la tercera generació.",
+                        "Generació": "Tercera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Aigua",
+                                "Classe": "Especial",
+                                "Potència": 60,
+                                "Precisió": 100,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Confondre a l'objectiu (20%)",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Pols": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Ratllo Aurora",
+                                    "Anglès": "Aurora Beam",
+                                    "Japonès": "オーロラビーム (Ōrora Bīmu)"
+                                }
+                            },
+                        "Descripció": "Ratllo Aurora (Aurora Beam en anglès; オーロラビーム Raig aurora en japonès) és un moviment de tipus gelo introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Gel",
+                                "Classe": "Especial",
+                                "Potència": 65,
+                                "Precisió": 100,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Baixar l'atac de l'objectiu un nivell (10%)",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Acua Cèrcol",
+                                    "Anglès": "Aqua Ring",
+                                    "Japonès": "アクアリング (Akua Ringu)"
+                                }
+                            },
+                        "Descripció": "Acua Cèrcol (Aqua Ring en anglès; アクアリング Anell aquàtic en japonès) és un moviment de tipus aigua introduït en la quarta generació.",
+                        "Generació": "Quarta",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Aigua",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": null,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Usuari",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "No",
+                                    "Robatori": "Sí",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Aigua Lodosa",
+                                    "Anglès": "Muddy Water",
+                                    "Japonès": "だくりゅう (Daku Ryū)"
+                                }
+                            },
+                        "Descripció": "Aigua Lodosa (Muddy Water en anglès; だくりゅう Riu lodoso en japonès) és un moviment de tipus aigua introduït en la tercera generació. Abans de la quarta generació era el moviment característic de Marshtomp i Swampert.",
+                        "Generació": "Tercera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Aigua",
+                                "Classe": "Especial",
+                                "Potència": 90,
+                                "Precisió": 85,
+                                "PP": [10, {"Màxim": 16}],
+                                "Blanc": "Oponents adjacents",
+                                "Efecte_secundari": "Baixar la precisió de l'objectiu (30%)",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Armadura Àcida",
+                                    "Anglès": "Acid Armor",
+                                    "Japonès": "だくりゅう (Daku Ryū)"
+                                }
+                            },
+                        "Descripció": "Armadura Àcida (Acid Armor en anglès; とける Liquar-se en japonès) és un moviment de tipus verí introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Verí",
+                                "Classe": "Estat",
+                                "Potència": null,
+                                "Precisió": null,
+                                "PP": [20, {"Màxim": 32}],
+                                "Blanc": "Usuari",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "No",
+                                    "Robatori": "Sí",
+                                    "Roca_del_rei": "No"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Hidrobomba",
+                                    "Anglès": "Hydro Pump",
+                                    "Japonès": "ハイドロポンプ (Haidoro Ponpu)"
+                                }
+                            },
+                        "Descripció": "Hidrobomba (Hydro Pump en anglès; ハイドロポンプ Hidrobomba en japonès), anomenat hidro bomba abans de la tercera generació, és un moviment de tipus aigua introduït en la primera generació.",
+                        "Generació": "Primera",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Aigua",
+                                "Classe": "Especial",
+                                "Potència": 110,
+                                "Precisió": 80,
+                                "PP": [5, {"Màxim": 8}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "No",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    },
+                    {
+                        "Nom":
+                            {
+                                "llengues":
+                                {
+                                    "Català": "Últim Recurs",
+                                    "Anglès": "Last Resort",
+                                    "Japonès": "とっておき (Totteoki)"
+                                }
+                            },
+                        "Descripció": "Últim Recurs (Last Resort en anglès; とっておき El millor en japonès) és un moviment de tipus normal introduït en la quarta generació.",
+                        "Generació": "Quarta",
+                        "Dades_en_combate":
+                            {
+                                "Tipus": "Normal",
+                                "Classe": "Físic",
+                                "Potència": 140,
+                                "Precisió": 100,
+                                "PP": [5, {"Màxim": 8}],
+                                "Blanc": "Triat",
+                                "Efecte_secundari": "Cap",
+                                "Prioritat": 0,
+                                "Contacte": "Sí",
+                                "Afectat_per":
+                                {
+                                    "Capa_màgica": "No",
+                                    "Protecció_Detecció": "Sí",
+                                    "Robatori": "No",
+                                    "Roca_del_rei": "Sí"
+                                }
+                            }
+                    }
+                ],
+            "Imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fc/latest/20210627185640/Vaporeon.png/300px-Vaporeon.png",
+            "Evolucions":
+                {
+                    "Antecessor": 
+                        {
+                            "ID": 5,
+                            "Nom": "Eevee",
+                            "Recurs": "Pedra Aigua"
+                        }
+                }
+        }
+    ]
+}   
